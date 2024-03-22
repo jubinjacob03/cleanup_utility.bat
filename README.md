@@ -9,7 +9,7 @@ This is a Windows Cleanup Utility compiled as a batch `( .bat )` file .This scri
   ```python
   git clone https://github.com/jubinjacob03/cleanup_utility.bat-Win.git
   ```
-- or directly download the <code>[**cleanup_utility-v1_0.bat**](https://raw.githubusercontent.com/jubinjacob03/cleanup_utility.bat-Win/main/cleanup_utility-v1_0.bat)</code> file to your PC
+- or directly download the <code>**cleanup_utility-v1_0.bat**</code> file to your PC
 1. Double click the .bat file to `execute` the script or Right click the file and select `Open` . For all features to work properly **run the script as an administrator.**
 2. Wait for the tool finish all the function executions.
 
