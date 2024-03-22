@@ -41,5 +41,6 @@ echo Defragmenting C disk...
 defrag C: /U /V
 
 echo.
+echo.
 echo Cleanup complete :)
 pause
