@@ -3,7 +3,7 @@
 echo.
 echo ******************************************************
 echo *                                                    *
-echo *              Cleanup Utility v1.0                  *
+echo *              Cleanup-Utility v1.0                  *
 echo *              Built by: Jubin Jacob                 *
 echo *                                                    *
 echo ******************************************************
@@ -11,7 +11,7 @@ echo ******************************************************
 timeout /t 3 >nul
 
 echo.
-echo Cleaning up temporary files of User and System...
+echo Cleaning up temporary USER files and SYSTEM files...
 del /q /f /s %TEMP%\*
 del /q /f /s %SystemRoot%\Temp\*
 
@@ -28,7 +28,7 @@ echo Clearing Windows update cache...
 del /q /f /s %SystemRoot%\SoftwareDistribution\Download\*
 
 echo.
-echo Cleaning up windows log files...
+echo Cleaning up Windows log files...
 del /q /f /s %SystemRoot%\Logs\*
 del /q /f /s %SystemRoot%\System32\LogFiles\*
 
