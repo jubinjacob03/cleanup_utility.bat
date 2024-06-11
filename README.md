@@ -1,7 +1,7 @@
 # Cleanup Utility v1.0.bat
 
 ## Description
-This is a Windows Cleanup Utility compiled as a batch `( .bat )` file .This script automates the cleanup process for temporary files, the Recycle Bin, temporary installation files, Windows update cache, log files, and performs disk checking and defragmentation for the C: drive.
+This is a Windows Cleanup Utility compiled as a batch `.bat` file .This script automates the cleanup process for temporary files, the Recycle Bin, temporary installation files, Windows update cache, log files, and performs disk checking and defragmentation for the C: drive.
 
 ## Usage
 - You can either clone this repository to your PC using the command -
